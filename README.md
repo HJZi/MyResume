@@ -1,0 +1,1 @@
+# I wanted to build a json Resume for a long time. Finally inspired by [Jonathan Bloomer] (http://jonbloomer.com.au/), I started working on Json resume then use React build a github pages.
