@@ -1,0 +1,360 @@
+{
+  "basics": {
+    "name": "Huijie (Jane) Zi-Yep",
+    "label": "Data Analyst",
+    "picture": "",
+    "email": "huijieyep@shaw.ca",
+    "phone": "(403) 606-8262",
+    "website": "https://hjzi.github.io/",
+    "summary": [
+    "Experienced business analyst, programmer, consultant, trainer that has supported projects in Canada, Asia, England and Europe. Expertise in data analyst, supply chain management, material management, traffic and logistics, management accounting, information management and workflow, data warehouse, change management, business process re-engineering and process optimization, system design and integration. Leader in the project design, implementation and support.",
+    "* Strong expertise and knowledge in system integration between engineering, supply chain management and accounting system",
+    "* Knowledge with SPRD configuration, Piping spec management and SPmat data loading",
+    "* Strong reporting skills in Dashboard reporting, BI reporting",
+    "* Highly self-motivated, fast learner, and superb team player"
+      ],
+    "location": {
+      "address": "28 Ascot PL SW",
+      "postalCode": "T3H0V2",
+      "city": "Calgary",
+      "countryCode": "CA",
+      "province": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "jane.zi",
+        "url": "http://www.facebook.com/jane.zi"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Jane Zi",
+        "url": "https://linkedin.com/in/huijie-jane-zi-8a45533"
+      },
+      {
+        "network": "Github",
+        "username": "HJZi",
+        "url": "https://hjzi.github.io"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hui Jie Zi Consultant Corp.",
+      "position": "Owner/Consultant",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "current",
+      "summary": "Provide customized solution for data analyst, web development.",
+      "highlights": [
+        "Developed web site for Drygon Consulting Inc. (HTML5, CSS, React)"
+      ]
+    },
+     {
+      "company": "Devon Energy",
+      "position": "Material Analyst/Consultant",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "I worked as consultant on Jackfish and Pike project, provided service on material analyst, engineering data exchange, Smartplant material system admin, customized solution for reporting and data analyst, asset data migration, expediting bulk material, manage module fabrication activity.",
+      "highlights": [
+        "Worked with EPC company, manage data exchange activity. Configure SPRD 2D and 3D specs, generate Spec to match engineering design data requirement. ",
+        "Created pipeline procedure to clean up EPS piping ISO MTO and SPMAT data upload.",
+        "Expedited bulk material : Steel and pipe Spool. Hence developed work process and customized utility to handle CAD data clean up, export , Barcode tag print.",
+        "Worked with Buyer ,Contract Admin and Expeditor: developed customized report for monitor project expediting status,Milestone report, BEA cycle management, KPI matrix report ,What-IF report for planning procurement package planning. ",
+        "Developed Dashboard report to monitor the progress of Module fabrication activity, Procurmenet cost , schedule and timeline. ",
+        "QC data exchange with SAP, validate AP information. Developed close-out procedure, make sure orders are closed out properly in both Smartplant material and SAP.",
+        "Developed Vendor Master/ Vendor spare data for Capital project asset data migration project."
+      ]
+    },
+    {
+      "company": "Suncor Energy",
+      "position": "Data Analyst",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "I worked as Data Analyst on ADLP (Asset Data Lifecycle) project, developed SQL database, based on business rules built procedure to clean up text and classify the asset data hence migrate to Bentley eBridge.",
+      "highlights": [
+        "Designed and developed MS SQL database, built stored procedures based on business rules to clean up meta data extracted from Livelink and SAP, designed data migration process and processed data loading and quality check.",
+        "Worked with Bentley consultant , test the customized solution, validate data loading process. ",
+        "Designed data loading stragegy, process data loading and auditing.",
+        "Coordinate with Business UAT testing, track issues in HEAT."
+      ]
+    },
+    {
+      "company": "Bantrel Co.",
+      "position": "BPS & Material Management Systems and cost analyst",
+      "startDate": "2010",
+      "endDate": "2013",
+      "summary": "I worked as material and cost analyst and procurement system admin on Suncor Voyageur project and ConocoPhilips Surmont II project.",
+      "highlights": [
+        "Designed, programmed ISO process database, Tag maintenance database maintain tag transfer, inventory and logistics, interface with SPI and SPE.",
+        "Supported Procurement systems, and trouble-shoot interface issues with Suncor SAP.",
+        "Developed and programmed Cost and Schedule database to support Offsite fabrication Group managing Steel and pipe spool fabrication program.",
+        "Developed utilities use Excel VBA for piping technical data comparison, cost and schedule distribution chart, KPI and dashboard report."
+      ]
+    },
+    {
+      "company": "Petro-Canada / Suncor Energy",
+      "position": "Senior IS Specialist",
+      "startDate": "2008",
+      "endDate": "2010",
+      "summary": "I worked as IS sustainment, worked with Bentley consultant manage project activity, documentation, system configuration, UAT, system migration and upgrade.",
+      "highlights": [
+        "Supported Bentley Lifecycle eWarehouse application. Developed test plan, tested eWarehouse integration solution, troubleshoot for the user client application deployment.",
+        "Provided change management, knowledge transfer and support (SMART methodoloty).",
+        "Worked with business clients to manage requirements, defects and enhancements.",
+        "Designed and programmed standard and customied report solution build on top of eWarehouse",
+       "Designed and configured BIM (Business information system), manage EPC interface.",
+       "Designed and configured Material management system, management material data from EPC systems."
+      ]
+    },
+    {
+      "company": "Bantrel Co.",
+      "position": "Procurement Systems Technical Lead",
+      "startDate": "2004",
+      "endDate": "2008",
+      "summary": "Worked at Petro-Canada Biged project, Suncor MVU, MNU and Firebag project, Shell project, Voyageur Project.",
+      "highlights": [
+       "Document project automation plan, arrange system technial upgrade, testing, supervise help desk activities. ",
+       "Configured System based on project engineering requirement, implemented interface with engineering Intools and construction systems TeamWork.",
+       "Designed data mapping and interface process with clients accounting payable systems (Agress, Oracle Financial, SAP), material management systems.",
+       "Troubleshooting interface errors between procurement systems, Agresso and SAP.",
+       "Designed and programmed system reports, ODBC reports and web reports."
+      ]
+    },
+    {
+      "company": "COINs - Construction Industry Solutions Limited, England",
+      "position": "Consultant",
+      "startDate": "2002",
+      "endDate": "2004",
+      "summary": "Provided Consultancy for AMEC Rail, SIAC construction , Miller, Moris etc",
+      "highlights": [
+        "Provided business and IT consultancy in financial and procurement modules for clients to improve their business processes towards a more efficient and profitable direction. Help clients understand COINs and use it for their business process or process re-engineering.",
+        "Provided technical support, end user training for COINs modules such as General Ledger, Purchase Ledger, Procurement, System Administration and Security. Provided consultancy on reporting, integraiton of COINs with third party software.",
+        "Support pre-sale, provide system demonstration and walk-through with clients.",
+        "Support project go-live, hand-holding for client migration and post go-live.",
+        "Worked as second line support, trouble-shoot client systems issues, tracking Heat status."
+      ]
+    },
+    {
+      "company": "Bechtel International, Asia",
+      "position": "System Analyst",
+      "startDate": "1996",
+      "endDate": "2001",
+      "summary": "Worked at Motorola Mos17 and BAT3 project, Magnequench project, Exxon Mobile Singapore Project",
+      "highlights": [
+        "Provided project IT support, configured and implemented Procurement Tracking system support home and field material requisition, purchasing, Traffic and logistic to inventory cycle.",
+        "Designed and impomemented Web inventory management database, programmed customized report for procurement, engineering and cost control."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CFIS",
+      "position": "Parent Volunteer",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Help for school activity and student field trip.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Surrey",
+      "area": "Internet Computing",
+      "studyType": "Msc.",
+      "startDate": "2001-09",
+      "endDate": "2002-12",
+      "gpa": "",
+      "courses": [
+        ""
+        ]
+    },
+    {
+      "institution": "Nankai University",
+      "area": "Information Science",
+      "studyType": "Bsc.",
+      "startDate": "1992-09",
+      "endDate": "1996-07",
+      "gpa": "",
+      "courses": [
+        ""
+        ]
+    },
+    {
+      "institution": "Mount Royal Univeristy",
+      "area": "Business Analysis",
+      "studyType": "Certificate",
+      "startDate": "2014-01",
+      "endDate": "2015-03",
+      "gpa": "",
+      "courses": [
+        ""
+        ]
+    },
+    {
+      "institution": "University of Washington, through Coursera",
+      "area": "Machine Learning",
+      "studyType": "Certificate",
+      "startDate": "2016-05",
+      "endDate": "2016-07",
+      "gpa": "",
+      "courses": [
+        "Machine Learning Foundations: A case study approach",
+        "Machine Learning: Classification",
+        "Machine Learning: Regression",
+        "Machine Learning: Clustering & Retrieval"
+        ]
+    },
+    {
+      "institution": "University of California, Berkeley through edX",
+      "area": "Apache Spark",
+      "studyType": "Certificate",
+      "startDate": "2016-07",
+      "endDate": "2016-08",
+      "gpa": "",
+      "courses": [
+        "Introduction to Apache Spark",
+        "Distributed Machine Learning With Apache",
+        "Big Data Analysis with Apache Spark"
+        ]
+    },
+    {
+      "institution": "SAIT",
+      "area": "Oracle 10g PL/SQL",
+      "studyType": "Certificate",
+      "startDate": "2006-12",
+      "endDate": "2007-03",
+      "gpa": "Certified",
+      "courses": [
+        "Oracle 10g PL/SQL"
+        ]
+    },
+    {
+      "institution": "Dale Carnegie",
+      "area":"Dale Carnegie",
+      "studyType": "Certificate",
+      "startDate": "2005",
+      "endDate": "2005"
+    },
+    {
+      "institution": "Bantrel Co.",
+      "area":"Bantrel Supervisor Training",
+      "studyType": "Certificate",
+      "startDate": "2005",
+      "endDate": "2005"
+    },
+    {
+      "institution": "Bantrel Co.",
+      "area": "Six Sigma Yellow Belt Training",
+      "startDate": "2005",
+      "endDate": "2005"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "XML",
+        "CSS",
+        "Javascript",
+        "Perl",
+        "CGI"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "Oracle",
+        "MS SQL",
+        "MS Access",
+        "Progress",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "Master",
+      "keywords": [
+        "Bechtel/Bantrel BPS",
+        "Bentley Project Wise",
+        "Bentley eBridge",
+        "Intergraph SPRD",
+        "Intergraph SmartPlant Material",
+        "Agresso",
+        "SAP",
+        "COINs"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Master",
+      "keywords": [
+        "Jupyter",
+        "Rstudio"
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Chinese Mandarin",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ski",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": []
+    },
+    {
+      "name": "Golf",
+      "keywords": []
+    },
+    {
+      "name": "Ballroom Dance",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Charles Brits",
+      "reference": ""
+    }
+    ,{
+      "name": "Victor Guardia"
+    }
+  ]
+}

@@ -1,5 +1,32 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+/* Reset */
+html,body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  }
+
+.page-wrapper {
+  max-width: 1400px;
+}
+
+.profile {
+  text-align: center;
+}
+
+a {
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+
+.skills ul {
+  overflow-x:hidden;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.skills li {
+  display: inline;
 }
