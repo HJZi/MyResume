@@ -2,7 +2,7 @@
   "name": "MyResume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HJZi.github.io/MyResume",
+  "homepage": "https://HJZi.github.io/MyResume/",
   "dependencies": {
     "eslint": "latest",
     "eslint-config-airbnb": "^14.1.0",
@@ -28,6 +28,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "yarn run build&&gh-pages -d build"
   }
 }
