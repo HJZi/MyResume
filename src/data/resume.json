@@ -47,7 +47,7 @@
       "endDate": "current",
       "summary": "Provide customized solution for data analyst, web development.",
       "highlights": [
-        "Developed web site for Drygon Consulting Inc. (HTML5, CSS, React)"
+        "Developed web site for Drygon Consulting Inc. (HTML5, CSS, React, Firebase)"
       ]
     },
      {
@@ -59,11 +59,11 @@
       "summary": "I worked as consultant on Jackfish and Pike project, provided service on material analyst, engineering data exchange, Smartplant material system admin, customized solution for reporting and data analyst, asset data migration, expediting bulk material, manage module fabrication activity.",
       "highlights": [
         "Worked with EPC company, manage data exchange activity. Configure SPRD 2D and 3D specs, generate Spec to match engineering design data requirement. ",
-        "Created pipeline procedure to clean up EPS piping ISO MTO and SPMAT data upload.",
+        "Created pipeline procedure to clean up EPC piping ISO MTO and SPMAT data upload.",
         "Expedited bulk material : Steel and pipe Spool. Hence developed work process and customized utility to handle CAD data clean up, export , Barcode tag print.",
-        "Worked with Buyer ,Contract Admin and Expeditor: developed customized report for monitor project expediting status,Milestone report, BEA cycle management, KPI matrix report ,What-IF report for planning procurement package planning. ",
+        "Worked with Buyer ,Contract Admin and Expeditor: developed customized report for monitoring project expediting status,Milestone report, BEA cycle management, KPI matrix report ,What-IF report for procurement package planning. ",
         "Developed Dashboard report to monitor the progress of Module fabrication activity, Procurmenet cost , schedule and timeline. ",
-        "QC data exchange with SAP, validate AP information. Developed close-out procedure, make sure orders are closed out properly in both Smartplant material and SAP.",
+        "QC data exchange with SAP, validate AP information. Developed close-out procedure, to ensure orders are closed out properly in both Smartplant material and SAP.",
         "Developed Vendor Master/ Vendor spare data for Capital project asset data migration project."
       ]
     },
@@ -73,7 +73,7 @@
       "website": "",
       "startDate": "2014",
       "endDate": "2015",
-      "summary": "I worked as Data Analyst on ADLP (Asset Data Lifecycle) project, developed SQL database, based on business rules built procedure to clean up text and classify the asset data hence migrate to Bentley eBridge.",
+      "summary": "I worked as Data Analyst on ADLP (Asset Data Lifecycle) project, developed SQL database, based on business rules built procedure to clean up and classify meta data hence migrate to Bentley eBridge.",
       "highlights": [
         "Designed and developed MS SQL database, built stored procedures based on business rules to clean up meta data extracted from Livelink and SAP, designed data migration process and processed data loading and quality check.",
         "Worked with Bentley consultant , test the customized solution, validate data loading process. ",
@@ -118,7 +118,7 @@
       "highlights": [
        "Document project automation plan, arrange system technial upgrade, testing, supervise help desk activities. ",
        "Configured System based on project engineering requirement, implemented interface with engineering Intools and construction systems TeamWork.",
-       "Designed data mapping and interface process with clients accounting payable systems (Agress, Oracle Financial, SAP), material management systems.",
+       "Designed data mapping and interface process with clients accounting payable systems (Agresso, Oracle Financial, SAP), material management systems.",
        "Troubleshooting interface errors between procurement systems, Agresso and SAP.",
        "Designed and programmed system reports, ODBC reports and web reports."
       ]
@@ -128,10 +128,11 @@
       "position": "Consultant",
       "startDate": "2002",
       "endDate": "2004",
-      "summary": "Provided Consultancy for AMEC Rail, SIAC construction , Miller, Moris etc",
+      "summary": "Provided full-cycle implementation for COINs modules, I have worked for AMEC Rail, SIAC construction , Miller, Moris, Carey, ERDC, Jordan, Rok, SIAC, Muir etc.",
       "highlights": [
         "Provided business and IT consultancy in financial and procurement modules for clients to improve their business processes towards a more efficient and profitable direction. Help clients understand COINs and use it for their business process or process re-engineering.",
         "Provided technical support, end user training for COINs modules such as General Ledger, Purchase Ledger, Procurement, System Administration and Security. Provided consultancy on reporting, integraiton of COINs with third party software.",
+        "Document test cases, system test, coordinator system upgrade activities. ",
         "Support pre-sale, provide system demonstration and walk-through with clients.",
         "Support project go-live, hand-holding for client migration and post go-live.",
         "Worked as second line support, trouble-shoot client systems issues, tracking Heat status."

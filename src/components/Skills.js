@@ -8,7 +8,7 @@ const Skills = props => {
 
     item.keywords.forEach((val, index) => {
       skills.push(
-        <li key={index}><span  className="w3-tag w3-teal"> {val} </span></li>
+      <li><span className="w3-tag w3-teal skillset">{val} </span></li>
       );
     });
 
@@ -26,9 +26,7 @@ const Skills = props => {
   return (
     <div className="w3-container skills">
       <h3 className="w3-text-grey w3-padding-16"><i className="fa fa-code fa-fw w3-margin-right w3-text-teal"></i>Skills</h3>
-
-        {getSkills}
-
+       {getSkills}
     </div>
   )
 };

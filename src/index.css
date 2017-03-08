@@ -9,10 +9,6 @@ html,body,h1,h2,h3,h4,h5,h6 {
   max-width: 1400px;
 }
 
-.profile {
-  text-align: center;
-}
-
 a {
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
@@ -22,11 +18,14 @@ a {
 }
 
 .skills ul {
-  overflow-x:hidden;
-  white-space: nowrap;
-  display: inline-block;
+  display: table;
+  white-space: pre;
 }
 
 .skills li {
-  display: inline;
+  display: table-cell;
+  letter-spacing: normal;
+
 }
+
+

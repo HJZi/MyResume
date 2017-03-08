@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react';
-import { About, Education, Footer, Profile, Skills, Work } from './components'
+import { About, Education, Footer, Header, Profile, Skills, Work } from './components'
 
 const App = props => {
 
@@ -12,6 +12,7 @@ const App = props => {
   return (
     <div>
     <div clsssName="w3-container w3-margin-top page-wrapper">
+      <Header />
       <div className="w3-row-padding">
 
         <Profile profileData={profileData} />
