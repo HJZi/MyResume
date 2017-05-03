@@ -9,8 +9,8 @@ const Profile = props => {
       <div className="w3-container w3-center">
         <h2>{profileObj.name}</h2>
       </div>
-      <div className="w3-container w3-center">
-        <div className="w3-container">
+      <div className="w3-container w3-center ">
+        <div className="profile-container">
           <p><i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>{profileObj.label}</p>
           <p><i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>{profileObj.location.city}, {profileObj.location.province}, {profileObj.location.countryCode}</p>
           <p><i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="mailto:{profileObj.email}">{profileObj.email}</a></p>

@@ -16,7 +16,7 @@ const Skills = props => {
     return (
       <div key={index}>
         <h6 className="w3-opacity"><b>{category} :</b></h6>
-        <ul className="w3-small" >
+        <ul className="w3-small skill-list" >
           {skills}
         </ul>
       </div>
