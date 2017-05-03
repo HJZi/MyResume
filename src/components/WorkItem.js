@@ -25,7 +25,7 @@ return (
 return (
   <div className="w3-container">
   <h5 className="w3-opacity"><b>{workItems.position} ,   {props.workItemData.company}</b></h5>
-  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i><span class="w3-tag w3-teal w3-round">{getWorkDates()}</span></h6>
+  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i><span className="w3-tag w3-teal w3-round">{getWorkDates()}</span></h6>
 
   <p>{workItems.summary}</p>
   <ul>{getHightlights}</ul>

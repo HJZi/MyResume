@@ -8,7 +8,7 @@ const Skills = props => {
 
     item.keywords.forEach((val, index) => {
       skills.push(
-      <li><span className="w3-tag w3-teal skillset">{val} </span></li>
+      <li key={index}><span className="w3-tag w3-teal skillset">{val} </span></li>
       );
     });
 

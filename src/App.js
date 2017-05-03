@@ -11,7 +11,7 @@ const App = props => {
 
   return (
     <div>
-    <div clsssName="w3-container w3-margin-top page-wrapper">
+    <div className="w3-container w3-margin-top page-wrapper">
       <Header />
       <div className="w3-row-padding">
 
